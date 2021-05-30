@@ -1,0 +1,18 @@
+.Page {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 100px;
+}
+
+.Heading {
+    text-align: center;
+}
+
+.Button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}

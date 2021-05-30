@@ -1,0 +1,12 @@
+.searchmatch {
+    background-color: yellow;
+}
+
+.WikipediaLinkTitle {
+    color: black;
+    text-decoration: none;
+}
+
+.WikipediaLinkTitle:hover {
+    text-decoration: underline;
+}
